@@ -1,8 +1,7 @@
 #include <unistd.h>
 
 /**
- *  main - prints given text using write()
- *  
+ *  main - prints given text using write()  
  *  Return: 1 if successful
  */
 
